@@ -1,3 +1,3 @@
-$Asset List
+# Asset List
 
-Learning basic Electron desktop app
+Learning basic _Electron_ desktop app
