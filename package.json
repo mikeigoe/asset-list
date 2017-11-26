@@ -1,0 +1,22 @@
+{
+  "name": "asset-list",
+  "version": "1.0.0",
+  "description": "Asset List Desktop App",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikeigoe/asset-list.git"
+  },
+  "author": "Mike Igoe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mikeigoe/asset-list/issues"
+  },
+  "homepage": "https://github.com/mikeigoe/asset-list#readme",
+  "dependencies": {
+    "electron": "^1.7.9"
+  }
+}
